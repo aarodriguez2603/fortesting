@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 esta es una prueba para hacer un rebase
 
 esta es una prueba para rebase en master
+=======
+esta es una prueba para hacer un rebase de branch4 a master
+>>>>>>> cambios en branch4
